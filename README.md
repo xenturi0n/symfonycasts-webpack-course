@@ -1,7 +1,8 @@
-Javascript for PHP Geeks Tutorial
-=================================
+# Javascript for PHP Geeks Tutorial
 
 https://symfonycasts.com/screencast/javascript-webpack
+
+https://github.com/MikSDigital/knp_webpackencore_tutorial
 
 This repository holds the screencast code, script and all the AJAX
 you can eat for the [Modern JavaScript Tutorials](http://knpuniversity.com/tracks/javascript#modern-javascript)
@@ -65,7 +66,7 @@ Now check out the site at `http://localhost:8000`
 
 If you are using PhpStorm you may install and enable
 the [Symfony Plugin](https://plugins.jetbrains.com/idea/plugin/7219-symfony-plugin)
-via the preferences which provides more auto-completion for Symfony projects.  
+via the preferences which provides more auto-completion for Symfony projects.
 
 Have fun!
 
