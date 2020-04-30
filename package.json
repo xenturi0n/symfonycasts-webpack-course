@@ -6,7 +6,7 @@
   "author": "Ryan Weaver <ryan@thatsquality.com>",
   "license": "MIT",
   "devDependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "sweetalert2": "^9.5.4",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
